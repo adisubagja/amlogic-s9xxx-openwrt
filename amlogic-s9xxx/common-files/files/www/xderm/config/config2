@@ -1,0 +1,10 @@
+host=123.45.67.xxx
+port=443
+pudp=7300
+user=xxxxx
+pass=xxxxx
+sni=x.xxxxx.xxx
+vmess://xxxxxxxx
+trojan://xxxxxxxx
+mode=0
+
